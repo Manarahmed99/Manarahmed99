@@ -1,6 +1,6 @@
-- 👋 Hi, I’m  Manar Ahmed 
-- 👀 I’m interested in front end developer
-- 📫 How to reach me Twitter account @manar6hmed
+- 👋 Hi, I’m  Manar Ahmed
+- Software Engineer || programmer || Software Testing || QA Automation Engineer
+- 📫 How to reach me Linkedin account https://www.linkedin.com/in/manaralabdali
 
 <!---
 Manarahmed99/Manarahmed99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
