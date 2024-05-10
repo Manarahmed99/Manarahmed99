@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Manar Ahmed
-- Software Engineer || programmer || Software Testing || QA Automation Engineer
+- Software Engineer || programmer || Software Testing 
 - 📫 How to reach me Linkedin account: https://www.linkedin.com/in/manaralabdali
 
 <!---
