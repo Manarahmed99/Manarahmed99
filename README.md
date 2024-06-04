@@ -1,34 +1,26 @@
-<h1 align="center">Hello, I am Manar Al-Abdali</h1>
+# Hello, I am Manar Alabdali 🌟
 
-<p align="center">
-  <img src="https://img.icons8.com/material-outlined/24/000000/user.png"/> Junior Quality Assurance Engineer
-  <br>
-  <img src="https://img.icons8.com/material-outlined/24/000000/graduation-cap.png"/> Graduated with a Bachelor’s degree in Computer Science from Umm Al-Qura University
-  <br>
-  <img src="https://img.icons8.com/material-outlined/24/000000/email.png"/> You can contact me: 
-  <a href="https://www.linkedin.com/in/manaralabdali/"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="20px"/></a> 
-  <a href="mailto:manar6hmed@gmail.com"><img src="https://img.icons8.com/material-rounded/24/000000/new-post.png"/></a>
-</p>
+## 📧 Contact Information
+- Email: manar6hmed@gmail.com
+- LinkedIn: [Manar Alabdali](https://www.linkedin.com/in/manaralabdali/)
 
-<h2><img src="https://img.icons8.com/material-outlined/24/000000/tools.png"/> Tools and Techniques</h2>
+## 🛠️ Tools and Techniques
+![Java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/400px-Java_programming_language_logo.svg.png)
+![JavaFX](https://upload.wikimedia.org/wikipedia/en/thumb/6/68/JavaFX_Logo.svg/400px-JavaFX_Logo.svg.png)
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/400px-Python-logo-notext.svg.png)
+![Django](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/400px-Django_logo.svg.png)
+![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/400px-HTML5_logo_and_wordmark.svg.png)
+![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/400px-CSS3_logo_and_wordmark.svg.png)
+![MySQL](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/400px-MySQL.svg.png)
 
-<p>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="30px"/> Java
-  <img src="https://img.icons8.com/windows/32/000000/java-coffee-cup-logo.png" width="30px"/> JavaFX
-  <img src="https://img.icons8.com/color/48/000000/python.png" width="30px"/> Python
-  <img src="https://img.icons8.com/color/48/000000/django.png" width="30px"/> Django
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="30px"/> HTML
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="30px"/> CSS
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30px"/> MySQL
-  <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" width="30px"/> Selenium
-  <img src="https://img.icons8.com/color/48/000000/test-tube.png" width="30px"/> TestNG
-  <img src="https://img.icons8.com/color/48/000000/junit5.png" width="30px"/> Junit
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" width="30px"/> Postman
-  <img src="https://img.icons8.com/color/48/000000/rest-api.png" width="30px"/> Rest Assured
-  <img src="https://img.icons8.com/color/48/000000/cucumber.png" width="30px"/> Cucumber
-  <img src="https://img.icons8.com/color/48/000000/github.png" width="30px"/> GitHub
-  <img src="https://img.icons8.com/color/48/000000/jira.png" width="30px"/> Jira
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png" width="30px"/> Jenkins
-</p>
+![Selenium](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/400px-Selenium_Logo.png)
+![TestNG](https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/TestNG.png/400px-TestNG.png)
+![JUnit](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/JUnit_logo.svg/400px-JUnit_logo.svg.png)
+![Postman](https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Postman_icon.png/400px-Postman_icon.png)
+![Rest Assured](https://miro.medium.com/max/600/1*tY3v0zTWm1MYJ0r9qsmHYA.png)
+![Cucumber](https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Cucumber-logo.png/400px-Cucumber-logo.png)
 
+![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/400px-Octicons-mark-github.svg.png)
+![Jira](https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Atlassian_Jira_%28software%29_logo.svg/400px-Atlassian_Jira_%28software%29_logo.svg.png)
+![Jenkins](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/400px-Jenkins_logo.svg.png)
 
