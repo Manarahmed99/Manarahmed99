@@ -1,11 +1,11 @@
-<h1 align="center">Hello, I am Manar Alabdali <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/></h1>
+<h1 align="center">Hello, I'm Manar Alabdali <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/></h1>
 
 ![](https://komarev.com/ghpvc/?username=manaralabdali&color=ff6e97&label=profile+views)
 
 <br>
 <h2>About me  </h2>
 
-- I am a junior quality assurance engineer.
+- I'm junior quality assurance engineer.
 - Graduated with a Bachelor’s degree in Computer Science from Umm Al-Qura University.
 - You can contact me: 
  [![LinkedIn](https://img.shields.io/badge/-Manar_Alabdali-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manaralabdali/)
@@ -14,17 +14,19 @@
 <br>
 <h2>🛠️ Tools and Techniques</h2>
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=orange)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/Junit-25A162?style=flat&logo=junit&logoColor=white)
-![TestNG](https://img.shields.io/badge/Testng-005E86?style=flat&logo=testng&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23B85E?style=flat&logo=cucumber&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Rest Assured](https://img.shields.io/badge/Rest%20Assured-525252?style=flat&logo=rest-assuredColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
+
+<a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="40px" height="40px"></a>
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px"></a>
+<a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px"></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="40px" height="40px"></a>
+<a href="https://www.selenium.dev/" title="Selenium"><img src="https://github.com/get-icon/geticon/raw/master/icons/selenium.svg" alt="Selenium" width="40px" height="40px"></a>
+<a href="https://cucumber.io/" title="Cucumber"><img src="https://github.com/get-icon/geticon/raw/master/icons/cucumber.svg" alt="Cucumber" width="40px" height="40px"></a>
+<a href="https://www.postman.com/" title="Postman"><img src="https://github.com/get-icon/geticon/raw/master/icons/postman.svg" alt="Postman" width="40px" height="40px"></a>
+<a href="https://www.jenkins.io/" title="Jenkins"><img src="https://github.com/get-icon/geticon/raw/master/icons/jenkins.svg" alt="Jenkins" width="40px" height="40px"></a>
+<a href="https://www.atlassian.com/software/jira" title="Jira"><img src="https://github.com/get-icon/geticon/raw/master/icons/jira.svg" alt="Jira" width="40px" height="40px"></a>
+<a href="https://github.com/" title="GitHub"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="GitHub" width="40px" height="40px"></a>
+<a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg" alt="IntelliJ IDEA" width="40px" height="40px"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
