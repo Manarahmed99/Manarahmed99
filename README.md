@@ -1,35 +1,34 @@
-# Hi, I'm Manar Alabdali 👋
+<h1 align="center">Hello, I am Manar Al-Abdali</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Manarahmed99&color=green)
+<p align="center">
+  <img src="https://img.icons8.com/material-outlined/24/000000/user.png"/> Junior Quality Assurance Engineer
+  <br>
+  <img src="https://img.icons8.com/material-outlined/24/000000/graduation-cap.png"/> Graduated with a Bachelor’s degree in Computer Science from Umm Al-Qura University
+  <br>
+  <img src="https://img.icons8.com/material-outlined/24/000000/email.png"/> You can contact me: 
+  <a href="https://www.linkedin.com/in/manaralabdali/"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="20px"/></a> 
+  <a href="mailto:manar6hmed@gmail.com"><img src="https://img.icons8.com/material-rounded/24/000000/new-post.png"/></a>
+</p>
 
-**QA Engineer / Test Automation Engineer**
+<h2><img src="https://img.icons8.com/material-outlined/24/000000/tools.png"/> Tools and Techniques</h2>
 
-## 🌐 Connect with Me
+<p>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="30px"/> Java
+  <img src="https://img.icons8.com/windows/32/000000/java-coffee-cup-logo.png" width="30px"/> JavaFX
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="30px"/> Python
+  <img src="https://img.icons8.com/color/48/000000/django.png" width="30px"/> Django
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="30px"/> HTML
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="30px"/> CSS
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30px"/> MySQL
+  <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" width="30px"/> Selenium
+  <img src="https://img.icons8.com/color/48/000000/test-tube.png" width="30px"/> TestNG
+  <img src="https://img.icons8.com/color/48/000000/junit5.png" width="30px"/> Junit
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" width="30px"/> Postman
+  <img src="https://img.icons8.com/color/48/000000/rest-api.png" width="30px"/> Rest Assured
+  <img src="https://img.icons8.com/color/48/000000/cucumber.png" width="30px"/> Cucumber
+  <img src="https://img.icons8.com/color/48/000000/github.png" width="30px"/> GitHub
+  <img src="https://img.icons8.com/color/48/000000/jira.png" width="30px"/> Jira
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" width="30px"/> Jenkins
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manaralabdali/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Manarahmed99)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manar6hmed@gmail.com)
 
----
-
-## About Me
-
-👀 I'm passionate about software testing and automation.
-
-📚 I hold a bachelor's degree in computer science, equipping me with strong programming and problem-solving abilities.
-
-💞️ I'm interested in collaborating on test automation projects, eager to share my knowledge and learn from others.
-
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/manaralabdali/) or via [Gmail](mailto:manar6hmed@gmail.com).
-
----
-
-## 🛠️ Technical Skills
-
-- **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-- **Testing Tools:** ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-6DB33F?style=flat-square&logo=spring&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square&logo=testng&logoColor=white) ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
-- **Frameworks and Libraries:** ![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=flat-square&logo=java&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-- **Tools:** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
----
