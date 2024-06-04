@@ -1,13 +1,12 @@
 # <div align="center">Hello, I am Manar Alabdali 🌟</div>
 
-## 📧 Contact Information
-- <a href="mailto:manar6hmed@gmail.com"><img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-mail-interface-flatart-icons-outline-flatarticons.png" width="20"/></a> Email: [manar6hmed@gmail.com](mailto:manar6hmed@gmail.com)
-- <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="20"/> LinkedIn: [Manar Alabdali](https://www.linkedin.com/in/manaralabdali/)
-
 ## About Me
 - I am a junior quality assurance engineer.
 - Graduated with a Bachelor’s degree in Computer Science from Umm Al-Qura University.
-- You can contact me : Email: [manar6hmed@gmail.com](mailto:manar6hmed@gmail.com) LinkedIn: [Manar Alabdali](https://www.linkedin.com/in/manaralabdali/)
+- You can contact me: 
+  - Email: [<img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-mail-interface-flatart-icons-outline-flatarticons.png" width="20"/> manar6hmed@gmail.com](mailto:manar6hmed@gmail.com)
+  - LinkedIn: [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="20"/> Manar Alabdali](https://www.linkedin.com/in/manaralabdali/)
+
 
 
 ## 🛠️ Tools and Techniques
