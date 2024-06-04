@@ -8,12 +8,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manarahmed99)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manar6hmed@gmail.com)
 
-
 ---
 
 ## About Me
 
-Hello! I am Manar Alabdali, a passionate and dedicated Computer Science graduate with a strong focus on software testing and quality assurance. I have recently completed a Software Development Engineer in Test Bootcamp at the Saudi Digital Academy, and I am eager to apply my skills in a practical environment. My goal is to contribute to the delivery of reliable software products while continuing to grow and learn in the field.
+I am a recent Computer Science graduate with a focus on software testing and quality assurance. I have completed a Software Development Engineer in Test Bootcamp at the Saudi Digital Academy and am eager to apply my skills to deliver reliable software products.
 
 ---
 
