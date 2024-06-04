@@ -1,30 +1,34 @@
-# <div align="center">Hello, I am Manar Alabdali 🌟</div>
+<h1 align="center">Hello, I am Manar Alabdali <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/></h1>
 
-## About Me
+
+<br>
+<h2>About me </h2>
+
 - I am a junior quality assurance engineer.
 - Graduated with a Bachelor’s degree in Computer Science from Umm Al-Qura University.
 - You can contact me: 
-  - Email: [<img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-mail-interface-flatart-icons-outline-flatarticons.png" width="20"/> manar6hmed@gmail.com](mailto:manar6hmed@gmail.com)
-  - LinkedIn: [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="20"/> Manar Alabdali](https://www.linkedin.com/in/manaralabdali/)
+ [![LinkedIn](https://img.shields.io/badge/-Shahad_Alnami-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahadalnami/)
+ [![Gmail](https://img.shields.io/badge/Shahadnamialnami@gmail.com-ff6e97?style=flat&logo=gmail&logoColor=white)](shahadnamialnami@gmail.com)
 
+<br>
+<h2>🛠️ Tools and Techniques</h2>
 
-
-## 🛠️ Tools and Techniques
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/100px-Java_programming_language_logo.svg.png" width="20"/> Java 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/JavaFX_Logo.svg/100px-JavaFX_Logo.svg.png" width="20"/> JavaFX 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/100px-Python-logo-notext.svg.png" width="20"/> Python 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/100px-Django_logo.svg.png" width="20"/> Django 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/100px-HTML5_logo_and_wordmark.svg.png" width="20"/> HTML 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/100px-CSS3_logo_and_wordmark.svg.png" width="20"/> CSS 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MySQL.svg/100px-MySQL.svg.png" width="20"/> MySQL 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/100px-Selenium_Logo.png" width="20"/> Selenium 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/TestNG.png/100px-TestNG.png" width="20"/> TestNG 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/JUnit_logo.svg/100px-JUnit_logo.svg.png" width="20"/> JUnit 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Postman_icon.png/100px-Postman_icon.png" width="20"/> Postman 
-<img src="https://miro.medium.com/max/600/1*tY3v0zTWm1MYJ0r9qsmHYA.png" width="20"/> Rest Assured 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Cucumber-logo.png/100px-Cucumber-logo.png" width="20"/> Cucumber 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/100px-Octicons-mark-github.svg.png" width="20"/> GitHub 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Atlassian_Jira_%28software%29_logo.svg/100px-Atlassian_Jira_%28software%29_logo.svg.png" width="20"/> Jira 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/100px-Jenkins_logo.svg.png" width="20"/> Jenkins 
+![Java](https://img.shields.io/badge/java-525252?style=flat&logo=openjdk)
+![Python](https://img.shields.io/badge/python-525252?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/html5-525252?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-525252?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-525252?style=flat&logo=SQL)
+![UI_Testing](https://img.shields.io/badge/-UI_Testing-525252?style=flat&logo=UI_Testing)
+![API_Testing](https://img.shields.io/badge/-API_Testing-525252?style=flat&logo=API_Testing)
+![Selenium](https://img.shields.io/badge/-selenium-525252?style=flat&logo=selenium)
+![JUnit](https://img.shields.io/badge/-JUnit-525252?style=flat&logo=JUnit)
+![TestNG](https://img.shields.io/badge/-TestNG-525252?style=flat&logo=TestNG)
+![Cucumber](https://img.shields.io/badge/-Cucumber-525252?style=flat&logo=Cucumber)
+![Allure_report](https://img.shields.io/badge/-Allure_report-525252?style=flat&logo=Allure_report)
+![Postman](https://img.shields.io/badge/Postman-525252?style=flat&logo=postman)
+![Jenkins](https://img.shields.io/badge/jenkins-525252?style=flat&logo=jenkins)
+![MySQL](https://img.shields.io/badge/-MySQL-525252?style=flat&logo=mysql&logoColor=4479A1)
+![Jira](https://img.shields.io/badge/jira-525252?style=flat&logo=jira)
+![GitHub](https://img.shields.io/badge/-GitHub-525252?style=flat&logo=github)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-525252?style=flat&logo=intellij-idea)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-525252?style=flat&logo=visual-studio-code&logoColor=007ACC)
