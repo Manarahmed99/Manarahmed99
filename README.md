@@ -27,6 +27,4 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![GitHub](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
