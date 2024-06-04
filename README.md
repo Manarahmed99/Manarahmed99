@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I am Manar Alabdali <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/></h1>
 
+![](https://komarev.com/ghpvc/?username=manaralabdali&color=ff6e97&label=profile viewer.)
 
 <br>
 <h2>About me </h2>
@@ -7,8 +8,8 @@
 - I am a junior quality assurance engineer.
 - Graduated with a Bachelor’s degree in Computer Science from Umm Al-Qura University.
 - You can contact me: 
- [![LinkedIn](https://img.shields.io/badge/-Shahad_Alnami-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahadalnami/)
- [![Gmail](https://img.shields.io/badge/Shahadnamialnami@gmail.com-ff6e97?style=flat&logo=gmail&logoColor=white)](shahadnamialnami@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/-Manar_Alabdali-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manaralabdali/)
+ [![Gmail](https://img.shields.io/badge/manar6hmed@gmail.com-ff6e97?style=flat&logo=gmail&logoColor=white)](mailto:manar6hmed@gmail.com)
 
 <br>
 <h2>🛠️ Tools and Techniques</h2>
