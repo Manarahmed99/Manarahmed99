@@ -5,7 +5,7 @@
 <br>
 <h2>About me  </h2>
 
-- I'm junior quality assurance engineer.
+- I'm Software Tester.
 - Graduated with a Bachelor’s degree in Computer Science from Umm Al-Qura University.
 - You can contact me: 
  [![LinkedIn](https://img.shields.io/badge/-Manar_Alabdali-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manaralabdali/)
